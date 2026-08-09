@@ -1,0 +1,24 @@
+# 钱包 API 接口文档中心
+
+欢迎使用钱包 API 接口文档。请点击下方目录跳转到对应章节：
+
+---
+
+### 📚 接口目录
+
+* [01. 接口接入说明](./01-接口接入说明%20_%20xq6%20钱包接口文档.md)
+* [02. 商户账户查询 (acct.query)](./02-商户账户查询%20(acct.query).md)
+* [03. 钱包余额查询 (wap.balance)](./03-钱包余额查询%20(wap.balance).md)
+* [04. 获取钱包提币地址 (wap.address)](./04-获取钱包提币地址%20(wap.address).md)
+* [05. 获取进入钱包链接 (wap.login)](./05-获取进入钱包链接%20(wap.login).md)
+* [06. 商户充币下单--深度集成 (deposits.request)](./06-商户充币下单--深度集成%20(deposits.request).md)
+* [07. 商户充币查询 (deposits.query)](./07-商户充币查询%20(deposits.query).md)
+* [08. 充币订单通知 (deposits.notify)](./08-充币订单通知%20(deposits.notify).md)
+* [09. 商户提币下单 (withdraw.request)](./09-商户提币下单%20(withdraw.request).md)
+* [10. 商户提币查询 (withdraw.query)](./10-商户提币查询%20(withdraw.query).md)
+* [11. 提币结果通知 (withdraw.notify)](./11-提币结果通知%20(withdraw.notify).md)
+* [12. 商户代币空投下单 (airdrop.request)](./12-商户代币空投下单%20(airdrop.request).md)
+* [13. 商户代币空投查询 (airdrop.query)](./13-商户代币空投查询%20(airdrop.query).md)
+* [14. 代币空投结果通知 (airdrop.notify)](./14-代币空投结果通知%20(airdrop.notify).md)
+* [15. 商户站内信通知 (wap.sell.confirmNotify)](./15-商户站内信通知%20(wap.sell.confirmNotify).md)
+* [16. 接口文档附录](./16-接口文档附录.md)
