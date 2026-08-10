@@ -1,28 +1,29 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="zh-cn">
 <head>
   <meta charset="UTF-8">
-  <title>xq6钱包接口文档</title>
+  <title>Document</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  
+  <!-- 添加下面这段 CSS 实现代码自动换行 -->
+  <style>
+    pre, code {
+      white-space: pre-wrap !important;
+      word-break: break-all !important;
+    }
+  </style>
 </head>
 <body>
-  <div id="app">加载中...</div>
+  <div id="app"></div>
   <script>
     window.$docsify = {
       name: 'xq6钱包接口文档',
-      loadSidebar: true, // 开启左侧边栏目录
-      subMaxLevel: 2,    // 自动抓取 Markdown 标题生成子目录
-      auto2top: true,
-      search: {          // 开启顶部全局搜索框
-        placeholder: '搜索...',
-        noData: '未找到结果！'
-      }
+      loadSidebar: true,
+      subMaxLevel: 2
     }
   </script>
-  <!-- Docsify 核心脚本与插件 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>
