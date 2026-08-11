@@ -1,6 +1,6 @@
 # Table of contents
 
-* [README](README.md)
+* [文档概述](README.md)
 * [接口接入说明](01-接口接入说明.md)
 * [商户账户查询 (acct.query)](<02-商户账户查询 (acct.query).md>)
 * [03-钱包余额查询 (wap.balance)](<03-钱包余额查询 (wap.balance).md>)
@@ -17,4 +17,3 @@
 * [14-代币空投结果通知(airdrop.notify)](14-代币空投结果通知\(airdrop.notify\).md)
 * [15-商户站内信通知(wap.sell.confirmNotify)](15-商户站内信通知\(wap.sell.confirmNotify\).md)
 * [16-接口文档附录](16-接口文档附录.md)
-* [\_sidebar](_sidebar.md)
