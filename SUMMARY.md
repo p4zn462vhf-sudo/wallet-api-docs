@@ -12,7 +12,7 @@
 * [商户提币下单(withdraw.request)](09-商户提币下单\(withdraw.request\).md)
 * [商户提币查询 (withdraw.query)](<10-商户提币查询 (withdraw.query).md>)
 * [提币结果通知(withdraw.notify)](11-提币结果通知\(withdraw.notify\).md)
-* [12-商户代币空投下单(airdrop.request)](12-商户代币空投下单\(airdrop.request\).md)
+* [商户代币空投下单(airdrop.request)](12-商户代币空投下单\(airdrop.request\).md)
 * [13-商户代币空投查询 (airdrop.query)](<13-商户代币空投查询 (airdrop.query).md>)
 * [14-代币空投结果通知(airdrop.notify)](14-代币空投结果通知\(airdrop.notify\).md)
 * [15-商户站内信通知(wap.sell.confirmNotify)](15-商户站内信通知\(wap.sell.confirmNotify\).md)
