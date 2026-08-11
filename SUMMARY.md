@@ -1,6 +1,6 @@
 # Table of contents
 
-* [文档概述](README.md)
+* [接口文档概述](README.md)
 * [接口接入说明](01-接口接入说明.md)
 * [商户账户查询 (acct.query)](<02-商户账户查询 (acct.query).md>)
 * [钱包余额查询 (wap.balance)](<03-钱包余额查询 (wap.balance).md>)
