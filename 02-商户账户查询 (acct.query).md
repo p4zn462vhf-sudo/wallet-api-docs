@@ -38,8 +38,20 @@
 
 注：解析说明
 
-retCode 为 000000，代表账户查询成功。 retCode 为其它情况，代表账户查询失败。
+retCode 为 000000，代表账户查询成功。 \
+retCode 为其它情况，代表账户查询失败。<br>
 
-响应报文示例
+响应报文示
 
-{ "cusUid": "42400", "data": "{"merchUid":42400,"currency":"CNY","availableAmt":-111959.43,"frozenAmt":160520.57,"riskFrozenAmt":0.0,"updateTime":"2023-11-01 01:13:12"}", "reqSn": "424001698772391558", "retCode": "000000", "retMsg": "请求成功", "signMsg": "Di1rcfkWayK1vnMNZ+t3PBEMJbcpf5KhleYYVrYzws3ytkLJvUoZsIdXWZAkl6BWX5WrPHPOpXK9ouzsamWZsVoKYXfYAeFahSXQ6EHhg2wwBmlq0DmqRC6knfhiDv/qJlOQNzzHfasqVbe1v9v0IqBviDpi2bxGlPsjdgTJ0l5PmWXpGDRLtdimlbN8BXgPKnLbU8RL0e4QUlE/MNeY2A46xuABWOvGOG+zIx+IwQI1Tpae45k9r9eGWTux5QCWVRTtdLCiGlnblJwmxynL3OYqFEVVtfGLcKSdCfxjQTWvDwKJz+lZnJVNLP9hKl5Pwqp2PCb9kb3JqJT1l14XYg==", "transCode": "acct.query", "version": "01" }
+```json
+{
+  "cusUid": "42400",
+  "data": "{\"merchUid\":42400,\"currency\":\"CNY\",\"availableAmt\":-111959.43,\"frozenAmt\":160520.57,\"riskFrozenAmt\":0.0,\"updateTime\":\"2023-11-01 01:13:12\"}",
+  "reqSn": "424001698772391558",
+  "retCode": "000000",
+  "retMsg": "请求成功",
+  "signMsg": "Di1rcfkWayK1vnMNZ+t3PBEMJbcpf5KhleYYVrYzws3ytkLJvUoZsIdXWZAkl6BWX5WrPHPOpXK9ouzsamWZsVoKYXfYAeFahSXQ6EHhg2wwBmlq0DmqRC6knfhiDv/qJlOQNzzHfasqVbe1v9v0IqBviDpi2bxGlPsjdgTJ0l5PmWXpGDRLtdimlbN8BXgPKnLbU8RL0e4QUlE/MNeY2A46xuABWOvGOG+zIx+IwQI1Tpae45k9r9eGWTux5QCWVRTtdLCiGlnblJwmxynL3OYqFEVVtfGLcKSdCfxjQTWvDwKJz+lZnJVNLP9hKl5Pwqp2PCb9kb3JqJT1l14XYg==",
+  "transCode": "acct.query",
+  "version": "01"
+}
+```
