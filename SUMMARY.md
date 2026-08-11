@@ -16,4 +16,4 @@
 * [商户代币空投查询 (airdrop.query)](<13-商户代币空投查询 (airdrop.query).md>)
 * [代币空投结果通知(airdrop.notify)](14-代币空投结果通知\(airdrop.notify\).md)
 * [商户站内信通知(wap.sell.confirmNotify)](15-商户站内信通知\(wap.sell.confirmNotify\).md)
-* [16-接口文档附录](16-接口文档附录.md)
+* [接口文档附录](16-接口文档附录.md)
