@@ -7,7 +7,7 @@
 * [获取钱包提币地址 (wap.address)](<04-获取钱包提币地址 (wap.address).md>)
 * [获取进入钱包链接 (wap.login)](<05-获取进入钱包链接 (wap.login).md>)
 * [商户充币下单--深度集成(deposits.request)](06-商户充币下单--深度集成\(deposits.request\).md)
-* [07-商户充币查询 (deposits.query)](<07-商户充币查询 (deposits.query).md>)
+* [商户充币查询 (deposits.query)](<07-商户充币查询 (deposits.query).md>)
 * [08-充币订单通知（deposits.notify）](08-充币订单通知（deposits.notify）.md)
 * [09-商户提币下单(withdraw.request)](09-商户提币下单\(withdraw.request\).md)
 * [10-商户提币查询 (withdraw.query)](<10-商户提币查询 (withdraw.query).md>)
