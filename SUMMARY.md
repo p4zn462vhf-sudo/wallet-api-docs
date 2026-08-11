@@ -3,7 +3,7 @@
 * [文档概述](README.md)
 * [接口接入说明](01-接口接入说明.md)
 * [商户账户查询 (acct.query)](<02-商户账户查询 (acct.query).md>)
-* [03-钱包余额查询 (wap.balance)](<03-钱包余额查询 (wap.balance).md>)
+* [Untitled](<03-钱包余额查询 (wap.balance).md>)
 * [04-获取钱包提币地址 (wap.address)](<04-获取钱包提币地址 (wap.address).md>)
 * [05-获取进入钱包链接 (wap.login)](<05-获取进入钱包链接 (wap.login).md>)
 * [06-商户充币下单--深度集成(deposits.request)](06-商户充币下单--深度集成\(deposits.request\).md)
