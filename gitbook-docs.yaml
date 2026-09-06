@@ -1,0 +1,48 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: XQ6 API Documentation
+  structure:
+    - type: section-group
+      key: section-group-1
+      title: API 文档汇总
+      draft: true
+      children: []
+    - type: section-group
+      key: section-group-2
+      title: 钱包深度归集接口文档
+      icon: "1"
+      draft: true
+      children: []
+    - type: space
+      key: space-1
+      title: XQ6钱包API文档
+      path: wallet-reference
+      default: true
+      content:
+        directory: ./wallet-reference
+        language: zh
+    - type: section-group
+      key: section-group-3
+      title: 钱包深度归集接口文档
+      icon: "1"
+      draft: true
+      children: []
+    - type: space
+      key: space-2
+      title: XQ6钱包_V2接口文档
+      path: wallet_v2-reference
+      content:
+        directory: ./wallet_v2-reference
+        language: en
+    - type: section-group
+      key: section-group-4
+      title: wallet API
+      icon: "1"
+      draft: true
+      children: []
+    - type: section-group
+      key: section-group-5
+      title: API文档
+      icon: "1"
+      draft: true
+      children: []
