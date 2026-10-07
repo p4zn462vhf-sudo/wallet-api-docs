@@ -37,6 +37,7 @@ site:
       title: XQ6钱包API文档
       path: wallet-reference
       default: true
+      draft: true
       content:
         directory: ./wallet-reference
         language: zh
