@@ -33,7 +33,7 @@ site:
       path: wallet_v2-reference
       content:
         directory: ./wallet_v2-reference
-        language: en
+        language: zh
     - type: section-group
       key: section-group-4
       title: wallet API
