@@ -13,14 +13,6 @@ site:
       icon: "1"
       draft: true
       children: []
-    - type: space
-      key: space-1
-      title: XQ6钱包API文档
-      path: wallet-reference
-      default: true
-      content:
-        directory: ./wallet-reference
-        language: zh
     - type: section-group
       key: section-group-3
       title: 钱包深度归集接口文档
@@ -40,6 +32,14 @@ site:
       icon: "1"
       draft: true
       children: []
+    - type: space
+      key: space-1
+      title: XQ6钱包API文档
+      path: wallet-reference
+      default: true
+      content:
+        directory: ./wallet-reference
+        language: zh
     - type: section-group
       key: section-group-5
       title: API文档
